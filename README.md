@@ -17,11 +17,10 @@ The Survey Form project is a simple registration form that collects user informa
 - HTML
 - CSS
 
-## How to Use
+## Live Demo
 
-1. Open the `index.html` file in a web browser.
-2. Fill out the form with the required information.
-3. Click the "Submit" button to submit the form.
+You can view the live demo of the project at the following link:
+[Survey Form Live Demo](https://bonanseamariano.github.io/FreeCodeCamp-SurveyForm/)
 
 ## Project Structure
 
